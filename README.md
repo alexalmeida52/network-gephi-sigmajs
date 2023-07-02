@@ -1,3 +1,8 @@
+## Visualização da rede com Gephi usando SigmaJS Exporter
+### Autores
+#### José Alex Alves Pereira
+#### Fabricio Cruz
+
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
